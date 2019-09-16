@@ -5,8 +5,8 @@ def fizzbuzz(number)
     puts fizzbuzz
   elsif number%3
     puts fizz
-  else 
+  else
     puts buzz
-    
+
 
 end
