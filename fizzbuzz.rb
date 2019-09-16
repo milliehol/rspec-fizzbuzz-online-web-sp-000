@@ -8,5 +8,5 @@ def fizzbuzz(number)
   else
     puts buzz
 
-
+  end
 end
